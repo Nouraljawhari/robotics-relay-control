@@ -13,5 +13,3 @@ temperature/humidity (DHT11) and ambient light (LDR).
 ## Commands (sent over Bluetooth)
 `1 ON`, `1 OFF`, `2 ON`, `2 OFF`, `3 ON`, `3 OFF`
 
-## Author
-Nour Al Jawhari
